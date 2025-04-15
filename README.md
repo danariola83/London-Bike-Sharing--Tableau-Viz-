@@ -4,7 +4,7 @@ A Data Visualization project done with Python and Tableau, which highlights ride
 
 # Problem Statement
 
-* Determine how factors like temperate and wind speed affect the number of bike rides within a given period of time
+Determine how factors like temperate and wind speed affect the number of bike rides within a given period of time
 
 # Dashboard Features
 
@@ -17,4 +17,8 @@ A Data Visualization project done with Python and Tableau, which highlights ride
 * Dynamically set periods for all charts via set actions
 * Moving Average chart
 * Total rides
-* Heat map of Temperature vs Wind Speed and how they affect total bike rides
+* Heat map of Temperature vs Wind Speed
+
+# Conclusion
+
+The number of bike rides within any given period is inversely proportional with wind speed, with the highest totals falling within milder temperature ranges. 

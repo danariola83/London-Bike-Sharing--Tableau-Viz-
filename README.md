@@ -4,5 +4,5 @@ A Data Visualization project done with Python and Tableau, which highlights ride
 
 # Dashboard Features
 
-!(dashboard)[dashboard.png]
+![dashboard](dashboard.png)
 
